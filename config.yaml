@@ -1,6 +1,6 @@
-baseURL: "https://example.com"
+baseURL: "https://ofonime.netlify.app"
 languageCode: "en-us"
-title: "Hugo Novela"
+title: "Ofonime's Rabmble"
 pygmentsstyle: 'monokai'
 
 # Theme settings
